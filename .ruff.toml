@@ -1,0 +1,6 @@
+[lint]
+extend-select = ["I"]
+
+[format]
+quote-style = "single"
+line-ending = "lf"
